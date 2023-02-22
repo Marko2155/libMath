@@ -16,3 +16,5 @@ sqrt(num) - Calculates the square root from a number
 pi - Pi.
 
 e - E.
+
+infinity - Inf.
