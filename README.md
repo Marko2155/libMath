@@ -18,3 +18,5 @@ pi - Pi.
 e - E.
 
 infinity - Inf.
+
+Oh, and the first number in the version number is a full release, the second number in the version number is a half release and the last number is a small release.
