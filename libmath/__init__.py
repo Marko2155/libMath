@@ -20,6 +20,10 @@ def greaterlowerorequalto(num1oget, num2oget):
         return 0
     if num1oget == num2oget:
         return 2
+    
+def sqrt(num1sqrt):
+    return num1sqrt**(1/2)
+
 
 pi = 3.141592653589793
 e = 2.718281828459045
