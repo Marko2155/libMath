@@ -10,6 +10,8 @@ divide(num1, num2) - Divides num1 with num2
 
 multiply(num1, num2) - Multiplies num1 with num2.
 
+sqrt(num) - Calculates the square root from a number
+
 # Variables
 pi - Pi.
 
